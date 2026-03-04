@@ -1,4 +1,7 @@
 # The-Hidden-Geometry-of-Financial-Dynamics
+## 📄 Research Paper  
+
+👉 [Read Full Paper](./The Hidden Geometry of Financial Dynamics.pdf)
 A Topological Data Analysis (TDA) based trading framework that models financial markets as geometric manifolds to detect persistent structural trends using Betti-0 connectivity, enabling robust alpha generation under real-world execution constraints.
 # 🚀 The Hidden Geometry of Financial Dynamics  
 ### Topological Alpha Engine using Betti-0 Connectivity  
